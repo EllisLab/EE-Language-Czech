@@ -1,5 +1,5 @@
 ===============================================
-Czech Translation Pack for ExpressionEngine 2.x
+Czech Translation Pack for ExpressionEngine 1.x
 ===============================================
 
 | Copyright (C) 2009-2013 EllisLab, Inc.
